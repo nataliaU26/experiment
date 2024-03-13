@@ -11,7 +11,7 @@ const ImageComponent = () => {
       </div>
       <div className="image-wrapper">
         <img src={image2} alt="Image 2" />
-        <p>Nombre de la imagen 2</p>
+        <p>Nombre de la imagen 2.</p>
       </div>
     </div>
   );
